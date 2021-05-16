@@ -49,7 +49,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-<<<<<<< HEAD
->>>>>>> afdd01cfef61fde3d0200219fb4cc85dec1c6975
-=======
+
 >>>>>>> master
