@@ -1,0 +1,56 @@
+[33mcommit cc626425debf38b4cdb0e7303f9d636e30a7d191[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 864454e fe2f567
+Author: mercurylovestory <mercury_planet730@outlook.com>
+Date:   Sun May 16 08:58:14 2021 -0700
+
+    Merge branch 'main'
+
+[33mcommit fe2f5679e173825b15a0611a23546d7200e7f6d1[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: mercurylovestory <mercury_planet730@outlook.com>
+Date:   Sun May 16 08:57:41 2021 -0700
+
+    config
+
+[33mcommit 864454e0464bd783475152946d33737db2c83740[m
+Merge: c8bdf7a 5e72469
+Author: mercurylovestory <mercury_planet730@outlook.com>
+Date:   Sun May 16 08:56:14 2021 -0700
+
+    Merge branch 'main'
+
+[33mcommit c8bdf7a8ccf86d880829daac25ba469c0ab5a1d7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: mercurylovestory <mercury_planet730@outlook.com>
+Date:   Sun May 16 08:53:58 2021 -0700
+
+    package
+
+[33mcommit 5e72469826b9e8b26424e2658d0227cd3aeb650a[m
+Merge: 9d1f4b2 afdd01c
+Author: mercurylovestory <mercury_planet730@outlook.com>
+Date:   Thu May 13 11:56:25 2021 -0700
+
+    every
+
+[33mcommit 9d1f4b2437be13bc0765c89b48dd52ea88601378[m
+Author: mercurylovestory <mercury_planet730@outlook.com>
+Date:   Thu May 13 11:49:54 2021 -0700
+
+    package
+
+[33mcommit afdd01cfef61fde3d0200219fb4cc85dec1c6975[m
+Author: oscarnielsen210505 <oscarnielsen210505@gmail.com>
+Date:   Thu May 13 11:06:26 2021 -0700
+
+    readme add
+
+[33mcommit 8c96c5981ef6d8c620e5b547f3be43b09269910b[m
+Author: mercurylovestory <83218980+mercurylovestory@users.noreply.github.com>
+Date:   Wed May 12 12:44:38 2021 -0700
+
+    Update README.md
+
+[33mcommit 28b8e05e8483af18fe2a2a40cf7a4970e2bd0235[m
+Author: mercurylovestory <83218980+mercurylovestory@users.noreply.github.com>
+Date:   Wed May 12 12:43:25 2021 -0700
+
+    Initial commit
